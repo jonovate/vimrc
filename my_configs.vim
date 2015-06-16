@@ -1,6 +1,6 @@
 """"""""""""""""""""""""""""""
 " => Pathogen Extras
-call pathogen#infect('~/vimfiles/{}')
+call pathogen#infect('./vim_loads/{}')
 
 """"""""""""""""""""""""""""""
 " => bufExplorer plugin
@@ -18,7 +18,6 @@ if has("gui_running")
     set wildchar=<Tab> wildmenu wildmode=full
     set wildcharm=<C-Z>
     nnoremap <F10> :b <C-Z>
-
 endif
 
 """"""""""""""""""""""""""""""
