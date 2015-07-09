@@ -54,3 +54,11 @@ endfunction
 au FileType coffee call CoffeeScriptFold()
 
 au FileType gitcommit call setpos('.', [0, 1, 1, 0])
+
+
+""""""""""""""""""""""""""""""
+" => ReactJS (JSX) section
+"""""""""""""""""""""""""""""""
+"  Add support to JSX in JS files
+let g:jsx_ext_required = 0
+
