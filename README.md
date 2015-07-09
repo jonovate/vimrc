@@ -102,7 +102,7 @@ Remove all clutter and focus only on the essential. Similar to iA Writer or Writ
 * [vim-markdown](https://github.com/tpope/vim-markdown)
 * [nginx.vim](https://github.com/vim-scripts/nginx.vim): Highlights configuration files for nginx
 * [vim-golang](https://github.com/jnwhiteh/vim-golang)
-
+* [vim-jsx](https://github.com/mxw/vim-jsx)
 
 ## How to include your own stuff?
 
