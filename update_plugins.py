@@ -40,6 +40,7 @@ vim-repeat https://github.com/tpope/vim-repeat
 vim-commentary https://github.com/tpope/vim-commentary
 vim-go https://github.com/fatih/vim-go
 vim-jsx https://github.com/mxw/vim-jsx.git
+vim-json https://github.com/elzr/vim-json.git
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
